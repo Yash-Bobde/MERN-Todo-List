@@ -31,7 +31,7 @@ Mongoose – ODM for MongoDB
 
 🔧 Setup Instructions
 1. Clone the Repository
-git clone https://github.com/Class-D-Coding-Academy-By-Orange/Full-Stack-TodoList.git
+git clone (https://github.com/Yash-Bobde/MERN-Todo-List.git)
 cd Full-Stack-TodoList
 
 2. Install Backend Dependencies
