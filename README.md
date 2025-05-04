@@ -29,25 +29,6 @@ MongoDB – NoSQL database
 
 Mongoose – ODM for MongoDB
 
-🗃️ Project Structure
-
-Full-Stack-TodoList/
-│
-├── client/             # React frontend
-│   ├── public/
-│   └── src/
-│       ├── components/
-│       └── App.js
-│
-├── server/             # Node/Express backend
-│   ├── models/
-│   ├── routes/
-│   └── server.js
-│
-├── .gitignore
-├── README.md
-└── package.json
-
 🔧 Setup Instructions
 1. Clone the Repository
 git clone https://github.com/Class-D-Coding-Academy-By-Orange/Full-Stack-TodoList.git
