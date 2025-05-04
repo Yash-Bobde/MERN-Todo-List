@@ -29,46 +29,6 @@ MongoDB – NoSQL database
 
 Mongoose – ODM for MongoDB
 
-🔧 Setup Instructions
-1. Clone the Repository
-git clone (https://github.com/Yash-Bobde/MERN-Todo-List.git)
-cd Full-Stack-TodoList
-
-2. Install Backend Dependencies
-cd server
-npm install
-
-3. Install Frontend Dependencies
-cd ../client
-npm install
-
-4. Set Up Environment Variables
-Create a .env file in the server directory:
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-
-5. Run the Application
-Start the backend:
-cd server
-npm start
-
-Start the frontend:
-cd ../client
-npm start
-
-Visit http://localhost:3000 to use the app.
-
-💡 Learning Goals
-Build and connect a full-stack application
-
-Understand RESTful API design
-
-Implement CRUD operations
-
-Style using Tailwind CSS
-
-Deploy a MERN app
-
 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
